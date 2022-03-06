@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\sophi\source\repos\Project37\Project37\Source.cpp(14,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\sophi\source\repos\Project37\Project37\Source.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  room.cpp
+C:\Users\sophi\source\repos\Project37\Project37\room.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tenant.cpp
+C:\Users\sophi\source\repos\Project37\Project37\tenant.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\sophi\source\repos\Project37\Project37\room.cpp(259): warning C4715: room::add: значение возвращается не при всех путях выполнения
+  Project37.vcxproj -> C:\Users\sophi\source\repos\Project37\Debug\Project37.exe
